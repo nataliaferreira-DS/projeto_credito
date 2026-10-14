@@ -1,0 +1,22 @@
+{
+  "melhor_modelo": "Gradient boosting",
+  "taxa_inadimplencia": 0.2212,
+  "modelos": {
+    "Regressão logística": {
+      "auc": 0.7495351997385294,
+      "gini": 0.4990703994770589,
+      "ks": 0.3970253069903164,
+      "brier": 0.142154237782269,
+      "psi_treino_vs_teste": 0.0003754335138679286,
+      "auc_treino": 0.7600554897574964
+    },
+    "Gradient boosting": {
+      "auc": 0.7807424034492783,
+      "gini": 0.5614848068985565,
+      "ks": 0.4207057740714941,
+      "brier": 0.13526964499549715,
+      "psi_treino_vs_teste": 0.001137530279015933,
+      "auc_treino": 0.8197624095889143
+    }
+  }
+}
